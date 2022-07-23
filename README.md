@@ -22,3 +22,6 @@
 
 # 📍 Como posso acessar esse projeto
 ### Voce pode acessa esse site pelo Qr code abaixo ou também pelo link:
+
+
+
