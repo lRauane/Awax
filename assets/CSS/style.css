@@ -996,6 +996,10 @@ nav{
         display: flex;
         flex-direction: column-reverse;
     }
+    .section-share-items{
+        padding: 5px;
+        align-items: center;
+    }
     .section-share-tell{
         margin-top: 30px;
     }
