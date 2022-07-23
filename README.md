@@ -1,4 +1,5 @@
 # 📍 Awax
+![screenshot (5)](https://user-images.githubusercontent.com/102835801/180620430-6d742232-f95d-4ec5-942b-f32a9ce61ee6.png)
 
 # 📍 Bibliotecas utilizadas
 - Google fonts (https://fonts.google.com/)
@@ -22,6 +23,6 @@
 
 # 📍 Como posso acessar esse projeto
 ### Voce pode acessa esse site pelo Qr code abaixo ou também pelo link:
-
-
+![frame (3)](https://user-images.githubusercontent.com/102835801/180620311-4c2cb250-a551-44dd-9013-2bc09fc781b0.png)
+### 📍 [NETLIFY](https://awax-site.netlify.app/) 
 
