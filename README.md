@@ -1,5 +1,7 @@
 # 📍 Awax
-![screenshot (5)](https://user-images.githubusercontent.com/102835801/180620430-6d742232-f95d-4ec5-942b-f32a9ce61ee6.png)
+![screenshot (6)](https://user-images.githubusercontent.com/102835801/180629067-253c03e3-0625-494e-b845-2a167d0255cc.png)
+
+
 
 # 📍 Bibliotecas utilizadas
 - Google fonts (https://fonts.google.com/)
