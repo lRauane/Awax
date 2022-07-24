@@ -12,7 +12,7 @@
 - CSS3
 
 # 📍 Explicação do projeto
-
+Uma landing page desenvolvida com o layout disponibilizado durante o curso de html e css da b7web. Pude praticar posicionamento utilizando na maior parte o display: flex no projeto.
 
 # 📍 Redes sociais 
  ## Me acompanhe também pelas redes sociais
